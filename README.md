@@ -25,6 +25,6 @@
 |L1+R|Launch RemNote|Raycast|
 |L1+[|Launch Emoji viewer|System config|
 |L2+I,K,J,L|↑↓←→|Raycast|
-|L2+U,O,8|Resize focused window to the [left,right,up] half|
+|L2+U,O,8|Resize focused window to the [left,right,up] half|Raycast|
 |L2+V|Launch VSCode|Raycast|
 |L2+R|Launch RemNote|Raycast|
