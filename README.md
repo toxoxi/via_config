@@ -20,6 +20,7 @@
 |Ctrl+Space|iTerm2|iTerm2|
 |Ctrl+Command+V|Search Snippets|Raycast|
 |Ctrl+Command+E|Extract subtitles in coursera video page|Chrome extension|
+|Ctrl+Command+A|Ask GPT|Raycast|
 |L1+C|Launch Google Chrome|Raycast|
 |L1+S|Launch Slack|Raycast|
 |L1+V|Launch VSCode|Raycast|
